@@ -1,4 +1,4 @@
 # MypracticeGit
 This first repository
 <br>
-Author - Sandip Labade
+Author - Sandip (MypracticeGit)
